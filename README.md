@@ -1,2 +1,2 @@
 # macOS-deployment
-Hosting images and scripts for Intune.
+Hosting images, fonts and scripts for Intune.
